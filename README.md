@@ -1,27 +1,21 @@
-<h1>IT Governance Assessment Using COBIT Framework</h1>
+<h1>IT Governance Maturity Assessment – Financial Institution</h1>
 
 <h2>Description</h2>
 
-<br />
-I led an IT goverance maturity assessment for a financial institution using the COBIT 2019 framework. I worked directly with executives and IT leaders to uncover gaps in oversight, risk integration, and project management. I then designed a tailored governance roadmap that aligned IT initiatives with business strategy, improved compliance practices, and introduced stronger accountability. My recommendations were adopted, leading to a 30% drop in project delays, enhanced regulatory readiness, and greater executive confidence in IT governance.
+I led an IT governance maturity assessment for a mid-sized financial institution using the COBIT 2019 framework. Working directly with executives and IT leaders, I uncovered critical gaps in oversight, project management, risk integration, and compliance monitoring. My assessment covered the EDM, APO, BAI, DSS, and MEA domains, leveraging executive interviews, KPI reviews, and strategic analysis to build an accurate governance maturity baseline.
 
-<h2>Assessment</h2>
+<h2>Summary</h2>
 
-I was engaged by a mid-sized financial institution facing challenges in aligning IT initiatives with business strategy. I conducted a full IT governance maturity assessment using the COBIT 2019 framework, focusing on the EDM, APO, BAI, DSS, and MEA domains. Through executive interviews, KPI reviews, and strategic analysis, I identified governance gaps including weak oversight, inconsistent project management, limited risk integration, and siloed compliance monitoring.
+To address the identified gaps, I designed a tailored governance roadmap that aligned IT initiatives with business strategy, improved compliance practices, and strengthened accountability.
 
-I delivered a COBIT-aligned governance roadmap with practical recommendations:<br> 
-- Establishing an IT Governance Board<br>
-- Implementing a project portfolio management process<br>
-- Introducing enterprise architecture planning<br>
-- Embedding compliance automation into governance cycles
+ Key recommendations included:
 
-To ensure adoption, I presented findings and a phased 12-month roadmap directly to senior management in a board-level presentation.
+- Establish a dedicated IT Governance Board
+- Implement a project portfolio management process
+- Introduce enterprise architecture planning
+- Embed compliance automation into governance cycles
 
-The institution implemented my roadmap, creating a permanent IT Governance Committee, reducing project delays by 30%, improving regulatory readiness, and increasing executive confidence in IT governance and risk management practices.
-
-
-<h2>Environments Used </h2>
-
+I presented these recommendations in a board-level session, along with a phased 12-month roadmap to support adoption. The institution implemented my roadmap, created a permanent IT Governance Committee, reduced project delays by 30%, improved regulatory readiness, and increased executive confidence in IT governance and risk management practices.
 
 
 
